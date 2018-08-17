@@ -1,1 +1,0 @@
-# ilgizarkarasov.github.io
