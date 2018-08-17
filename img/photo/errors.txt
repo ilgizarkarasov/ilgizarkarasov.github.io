@@ -1,0 +1,2 @@
+[2018-08-04 17:51:37] layer "Rectangle 28.png": Duplicate path: Rectangle 28.png
+[2018-08-04 17:51:37] layer "Rectangle 28.png": Duplicate path: Rectangle 28.png
